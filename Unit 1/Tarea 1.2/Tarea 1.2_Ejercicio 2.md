@@ -16,20 +16,16 @@
 
 **Autora: Ana Ramírez**
 
-* Repositorio clonado:
+* Repositorio clonado:  
+  <img width="633" height="513" alt="Evidencia 0_Tarea 1 2" src="https://github.com/user-attachments/assets/4e1ea14b-a337-4681-99ca-39549f97c46f" />
   
-  ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-01-02-28-33-Evidencia%200_Tarea%201.2.png)
-
 * Se utilizó la línea de código `code Sesion2_Organizacion_proyecto_bioinf.md ` para editar el archivo desde un editor de texto.
 
 * Modificación en el archivo:
-  
-  ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-01-02-29-36-Evidencia%201_Tarea%201.2.png)
+  <img width="966" height="280" alt="Evidencia 1_Tarea 1 2" src="https://github.com/user-attachments/assets/d589cd4a-18ba-4ab8-88d2-575e8c98a226" />
 
 * Uso del comando `git add`
+  <img width="383" height="36" alt="Evidencia 2_Tarea 1 2" src="https://github.com/user-attachments/assets/3f48b904-75f6-418b-8fe1-f7a317444311" />
   
-  ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-01-02-30-15-Evidencia%202_Tarea%201.2.png)
-
 * Uso del comando `git commit`  y verificación con el comando `git status`
-  
-  ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-01-02-31-03-Evidencia%203_Tarea%201.2.png)
+  <img width="567" height="445" alt="Evidencia 3_Tarea 1 2" src="https://github.com/user-attachments/assets/703dcae7-0d74-4847-b55c-02f3c23f6569" />
