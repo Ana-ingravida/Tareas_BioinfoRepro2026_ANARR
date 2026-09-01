@@ -25,6 +25,7 @@
   <img width="966" height="280" alt="Evidencia 1_Tarea 1 2" src="https://github.com/user-attachments/assets/d589cd4a-18ba-4ab8-88d2-575e8c98a226" />
 
 * Uso del comando `git add`
+
   <img width="383" height="36" alt="Evidencia 2_Tarea 1 2" src="https://github.com/user-attachments/assets/3f48b904-75f6-418b-8fe1-f7a317444311" />
   
 * Uso del comando `git commit`  y verificación con el comando `git status`
