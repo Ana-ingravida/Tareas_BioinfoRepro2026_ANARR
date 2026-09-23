@@ -18,7 +18,7 @@ y <- 5
 x+y
 ```
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-07-22-11-image.png)
+<img width="840" height="137" alt="Evidencia ejercicio 1_Tarea 1 3" src="https://github.com/user-attachments/assets/bc6d33a4-f208-43ad-9b5c-337cbbcb6338" />
 
 *Figura 1*: Resultado del ejercicio 1, en el cual se suman dos variables.
 
@@ -44,7 +44,7 @@ x+y
   
   `result`
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-07-29-22-image.png)
+<img width="893" height="220" alt="Evidencia ejercicio 2_Tarea 1 3" src="https://github.com/user-attachments/assets/db607204-16f0-40cf-b6aa-cbdf76a33a3e" />
 
 *Figura 2*: Resultado del ejercicio 2, en el cual se suma un número a todos los números entre 1 y 150.
 
@@ -64,7 +64,7 @@ x+y
 
 * Sumar la cantidad de números del vector mayores a 20, para responder el ejercicio: `sum(vec.w>20)`
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-07-39-37-image.png)
+<img width="889" height="232" alt="Evidencia ejercicio 3_Tarea 1 3" src="https://github.com/user-attachments/assets/94fd1fb7-0882-42de-be43-03fd697b77e4" />
 
 *Figura 3*: Resultado del ejercicio 3, en el cual se determina cuantos números son mayores a 20 en un vector cuyo valor corresponde al resultado de una división.
 
@@ -92,7 +92,7 @@ x+y
   meta_maiz
   ```
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-08-04-23-image.png)
+<img width="911" height="471" alt="Evidencia ejercicio 4_Tarea 1 3" src="https://github.com/user-attachments/assets/5a133c26-d5d2-4465-b2a7-2e474a1f79ba" />
 
 *Figura 4:* Resultado del ejercicio 4, en el cual se aprende a cargar archivos dentro de R.
 
@@ -106,7 +106,7 @@ print(a)
 }
 ```
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-10-42-57-image.png)
+<img width="850" height="203" alt="Evidencia ejercicio 5 a_Tarea 1 3" src="https://github.com/user-attachments/assets/5cc4e768-8feb-42d9-b95e-f1f9fa8df2f1" />
 
 *Figura 5:* Resultado del ejercicio 5a, en el cual se obtiene el loop resultante de dividir 35 entre todos números del 1 al 10.
 
@@ -127,7 +127,7 @@ for (i in 1:10) {
 }
 ```
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-10-44-32-image.png)
+<img width="894" height="192" alt="Evidencia ejercicio 5 b_Tarea 1 3" src="https://github.com/user-attachments/assets/5412a63c-c632-4ed9-aaa1-3cef26218ddf" />
 
 *Figura 5:* Resultado del ejercicio 5b, en el cual se obtiene el loop resultante de dividir 35 entre todos números pares del 2 al 10.
 
@@ -157,7 +157,7 @@ for (i in 1:10) {
   df
   ```
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-10-58-36-image.png)
+<img width="963" height="479" alt="Evidencia ejercicio 5 c_Tarea 1 3" src="https://github.com/user-attachments/assets/402ca02d-017a-46da-a92d-7f7c8be6c85a" />
 
 *Figura 5:* Resultado del ejercicio 5c, en el cual se organizan los resultados en 2 columnas; en la primera se encuentra el texto y en la segunda el resultado numérico de la operación.
 
