@@ -2,7 +2,7 @@
 
 **Autora: Ana Ramírez**
 
-###Ejercicio 6
+### Ejercicio 6
 
 *Abre en RStudio el script `PracUni1Ses3/mantel/bin/1.IBR_testing.r`. Este script realiza un análisis de [aislamiento por resistencia](http://www.bioone.org/doi/abs/10.1554/05-321.1) con Fst calculadas con ddRAD en Berberis alpina.*
 
@@ -16,7 +16,7 @@
   
   Se requieren de los paquetes ade4, sp y ggplot2.
   
-  ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-22-05-57-image.png)
+  <img width="157" height="74" alt="Evidencia ejercicio 6_Tarea 1 3" src="https://github.com/user-attachments/assets/ef3e65bb-ad47-4365-b364-60ac2a981111" />
 
 * **¿Qué paquetes necesitas para correr el script?**
   
@@ -51,6 +51,5 @@
   
   `calc.tetha(Ne= 3, u=2)`
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-23-22-26-19-image.png)
-
-# 
+<img width="1037" height="201" alt="Evidencia ejercicio 7_Tarea 1 3" src="https://github.com/user-attachments/assets/c13ed168-dd42-4c35-bfa0-0f0f519c5293" />
+ 
