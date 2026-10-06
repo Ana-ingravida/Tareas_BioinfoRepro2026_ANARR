@@ -397,7 +397,7 @@
    
    Secuencia cruda:
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-21-40-56-image.png)
+   <img width="517" height="329" alt="Evidencia S10 R1 crudo 1_Tarea 2 1" src="https://github.com/user-attachments/assets/b5ac5b38-938b-4b1a-a953-c9f4a2adc0a2" />
    
    *Figura 7:* Esta tabla corresponde a las Estadísticas básicas. El número total de lecturas es consistente con el tamaño esperado de un read paired end. 
    
@@ -411,8 +411,8 @@
    
    Secuencia podada:
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-21-41-51-image.png)
-   
+   <img width="517" height="326" alt="Evidencia S10 R1 filtrado 1_Tarea 2 1" src="https://github.com/user-attachments/assets/1d61a880-3129-44fe-aea7-63e780346acd" />
+
    *Figura 8:* Esta tabla corresponde a las Estadísticas básicas. Presenta un número menor de lecturas y una reducción en las lecturas únicas, lo que confirma la eliminación de lecturas de baja calidad o artefactos mediante el proceso de filtrado/trimming.
    
    **Per base sequence quality**: El archivo filtrado muestra un mejor perfil al remover los extremos terminales o bases leídas con menor precisión.
@@ -427,7 +427,7 @@
    
    Secuencia cruda:
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-21-45-57-image.png)
+   <img width="521" height="323" alt="Evidencia S10 R2 crudo 1_Tarea 2 1" src="https://github.com/user-attachments/assets/ac07acb3-bf19-4bf6-b1dd-572724105340" />
    
    *Figura 9:* Esta tabla corresponde a las Estadísticas básicas. El número total de lecturas es consistente con el tamaño esperado de un read paired end.
    
@@ -441,8 +441,8 @@
    
    Secuencia podada:
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-21-46-24-image.png)
-   
+   <img width="522" height="324" alt="Evidencia S10 R2 filtrado 1_Tarea 2 1" src="https://github.com/user-attachments/assets/7734d108-7caf-4253-9ad9-c70db1c17120" />
+
    *Figura 10:* Esta tabla corresponde a las Estadísticas básicas. Presenta un número menor de lecturas y una reducción en las lecturas únicas, lo que confirma la eliminación de lecturas de baja calidad o artefactos mediante el proceso de filtrado/trimming.
    
    **Per base sequence quality**: El archivo filtrado muestra un mejor perfil al remover los extremos terminales o bases leídas con menor precisión.
@@ -475,16 +475,16 @@
    
    S10_R1.fastq.gz
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-19-13-image.png)
+   <img width="734" height="513" alt="Evidencia S10 R1 crudo 6 1_Tarea 2 1" src="https://github.com/user-attachments/assets/86fffdcb-f371-40e9-835d-d6e466d1f9a3" />
    
    *Figura 11:* Se muestra al Inicio y cuerpo de la lectura (posiciones 1 a 210 bp) una muy buena calidad. Promedios están sobre Q= 34 (precisión superior al 99.96%). Al extremo 3' (posiciones 210 a 250 bp) se observa una caída gradual en la calidad (las cajas amarillas se alargan y bajan hacia la zona amarilla/roja). Este es algo común en la secuenciación por síntesis debido a la acumulación de ruido óptico y desincronización de polimerasas
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-21-17-image.png)
+   <img width="686" height="515" alt="Evidencia S10 R1 crudo 6 2_Tarea 2 1" src="https://github.com/user-attachments/assets/6ae91e31-610d-4db4-a520-43c26eb20065" />
    
    *Figura 12:* En este gráfico se observa que la muestra en su conjunto es uniforme y limpia. La gran mayoría de las lecturas tienen una calidad global óptima. La calidad promedio centrada en Q = 38, esto equivale a una precisión superior al 99.98% en la llamada de bases.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-22-19-image.png)
-   
+   <img width="683" height="515" alt="Evidencia S10 R1 crudo 6 3_Tarea 2 1" src="https://github.com/user-attachments/assets/78d87749-0963-474d-9cd1-cc0d433fca93" />
+
    *Figura 13:* En este gráfico se observa una desviación de la distribución teórica, pues la línea observada muestra múltiples picos agudos e irregularidades a lo largo de todo el espectro, lo que dista de la curva teórica. Esto podría deberse a la presencia de secuencias sobrerepresentadas o adaptadores de la secuenciación no recortados, considerando que la sección de secuencias sobrerepresentadas se muestra alterada en el informe de la muestra.
    
    ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-27-55-image.png)
@@ -493,7 +493,7 @@
    
    S10_R2.fastq.gz
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-29-30-image.png)
+   <img width="685" height="510" alt="Evidencia S10 R1 crudo 6 4_Tarea 2 1" src="https://github.com/user-attachments/assets/1e677044-db7d-496a-870f-708f32d820bd" />
    
    *Figura 15:* Se muestra al Inicio y cuerpo de la lectura (posiciones 1 a 135 bp) una muy buena calidad. Promedios están sobre Q= 30 (las llamadas de bases en esta región son muy precisas). A la mitad y extremo 3' (posiciones 135 a 250 bp) Se observa una caída severa y progresiva de la calidad (a partir de la posición ~160 bp, las cajas amarillas se alargarán hacia la zona naranja y roja, los promedios llegan a alcanzar al final valores malos de Q ~12.
    
