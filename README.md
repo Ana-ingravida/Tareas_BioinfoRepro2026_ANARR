@@ -14,7 +14,7 @@ The author of this repository is the student **TM. Ana Ramírez Rivas**, who bel
 [Unit 1](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/tree/main/Unit%201)
 
 
-### Unit 2:
-*Expected learning outcome:*
+### Unit 2: Population genetics using specialized software
+*Expected learning outcome: User-level management of specialized software for population genetics with genomic data*
 
 [Unit 2](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/tree/main/Unit%202)
