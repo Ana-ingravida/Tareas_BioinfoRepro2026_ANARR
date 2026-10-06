@@ -38,8 +38,8 @@
      
      S10_R2_filter.fastq.gz: 31.035 reads.
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-03-04-03-Evidencia%201_Tarea%202.1.png)
-     
+     <img width="1290" height="177" alt="Evidencia 1_Tarea 2 1" src="https://github.com/user-attachments/assets/2661cbd2-3271-4d7a-9f21-93952366a000" />
+
      *Figura 1:* Resultado al aplicar el código descrito para contar el número de lecturas (reads) en un archivo fastq usando comandos Unix.
    - *Previsualizar las primeras 40 líneas del mismo archivo fastq:*
      
@@ -238,8 +238,8 @@
      BCCDDFFFFFFFGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHHHHHHGGHHGHGHHHHHGHHGGGGGHHHHHHHGGHGHHHGHHHHHHHHHHHHHHHGGFGHHHHHHHHHHHGHHHHHHHHHHHGGHHGHHHHHHHHHHHHHHHHHGHHHHHFHHHHHHHHFHGHHGHGFHGGHHHHHHF/AGHHFHFHGHHGHHHGEH-EAG0GGHEHBHHHHHHGGHHH
      ```
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-03-38-00-image.png)
-     
+     <img width="650" height="387" alt="Evidencia 2_Tarea 2 1" src="https://github.com/user-attachments/assets/880b4107-df7f-465f-968e-f0b2b3fda890" />
+
      *Figura 2:* Ejemplo del uso del código propuesto y el respectivo resultado (en este caso para el archivo S10_R2_filter.fastq.gz).
    - Ubicar la lectura 3 e identificar la información disponible. Describir en detalle la información entregada. ¿Donde se entrega la calidad del read?, ¿Cuál es el ID (identificador) del read? Etc. Utilice fechas y etiquetas para identificar cada parte.
      
@@ -267,8 +267,8 @@
      BCBBCFFFFFFFGGGGGGGGGGHHHHHGGGHHHHGGGGGGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGHGHHHHHHHHHGGHHHHHGGGGGGG@?///BFG/>/?>->EC000<DG<.<00<00000=G-:--;CG--9-.0BFFF-@-.0:0000.:0000:0;>-9BFF0:00;B00::0:0;0://;00:0:0:BDF-./;00:..@B--:B00::.:;;-;:9./:/0///00:00::00
      ```
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-04-15-55-image.png)
-     
+     <img width="667" height="193" alt="Evidencia 3_Tarea 2 1" src="https://github.com/user-attachments/assets/4a460ef3-ae62-45ef-875a-5e17f02a5230" />
+
      *Figura 3:* Resultado al ubicar la lectura 3 en el archivo S10_R1.fastq.gz.
      
      Desglose de la lectura 3 según las partes definidas previamente:
