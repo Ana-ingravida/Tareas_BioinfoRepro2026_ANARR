@@ -522,29 +522,29 @@
 
    *Figura 20:* Es posible inferir que se eliminaron con éxito las lecturas de calidad intermedia/baja que estaban presentes en el archivo crudo antes del proceso de limpieza. El archivo resultante tiene una distribución de calidad bastante alta y uniforme, lista para alineamiento.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-35-53-image.png)
-   
+   <img width="684" height="513" alt="Evidencia S10 R1 filtrado 6 3_Tarea 2 1" src="https://github.com/user-attachments/assets/a973f357-5831-44f4-a132-9f04dc1ee1e7" />
+
    *Figura 21:* En este gráfico se observa una desviación de la distribución teórica, pues la línea observada muestra múltiples picos agudos e irregularidades a lo largo de todo el espectro, lo que dista de la curva teórica. Esto podría deberse a la presencia de secuencias sobrerepresentadas o adaptadores de la secuenciación no recortados, considerando que la sección de secuencias sobrerepresentadas se muestra alterada en el informe de la muestra. En comparación al gráfico de la secuencia cruda, si se observa una mejoría, la distribución teórica se asemeja un poco más a la curva teórica luego del podado.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-36-47-image.png)
+   <img width="687" height="515" alt="Evidencia S10 R1 filtrado 6 4_Tarea 2 1" src="https://github.com/user-attachments/assets/4017f797-cf6c-4273-8220-fe81682d7514" />
    
    *Figura 22:* Respecto al gráfico del archivo crudo (que conservaba un mayor porcentaje de secuencias únicas), tras el filtrado por calidad se redujeron algunas lecturas de baja calidad/únicas, concentrando aún más el porcentaje de secuencias de alta calidad que están masivamente duplicadas. El filtrado por calidad no elimina duplicados. Al descartar las lecturas de baja calidad ( de las cuales podrían corresponder a fragmentos aleatorios o lecturas únicas con errores), la proporción relativa de las secuencias repetidas de alta calidad aumenta en el conjunto final.
    
    S10_R2_filter.fastq.gz
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-37-57-image.png)
+   <img width="737" height="515" alt="Evidencia S10 R2 filtrado 6 1_Tarea 2 1" src="https://github.com/user-attachments/assets/642e99f4-df91-4cd8-a501-b452db22de80" />
    
    *Figura 23:* Se observa una mejora considerable en este gráfico en relación al de la secuencia cruda. Esto responde a un proceso de quality trimming, esto para eliminar toda la cola defectuosa a partir de los ~160-180 bp.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-39-03-image.png)
+   <img width="683" height="518" alt="Evidencia S10 R2 filtrado 6 2_Tarea 2 1" src="https://github.com/user-attachments/assets/e0ac58ce-094b-4ded-a84e-662fce19fb76" />
    
    *Figura 24:* Se observa una mejora considerable en este gráfico en relación al de la secuencia cruda. Esto responde a un proceso de quality trimming planteado como posible solución antes de efectuar otros análisis.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-40-03-image.png)
+   <img width="685" height="514" alt="Evidencia S10 R2 filtrado 6 3_Tarea 2 1" src="https://github.com/user-attachments/assets/57dd0ec8-4bc5-4ef8-af25-1850b66021c1" />
    
    *Figura 25:* En este gráfico se observa una desviación de la distribución teórica, pues la línea observada muestra múltiples picos agudos e irregularidades a lo largo de todo el espectro, lo que dista de la curva teórica. Esto podría deberse a la presencia de secuencias sobrerepresentadas o adaptadores de la secuenciación no recortados, considerando que la sección de secuencias sobrerepresentadas se muestra alterada en el informe de la muestra. En comparación al gráfico de la secuencia cruda, no se observa una mejoría, la distribución teórica aún dista a la curva teórica luego del podado.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-41-01-image.png)
+   <img width="682" height="516" alt="Evidencia S10 R2 filtrado 6 4_Tarea 2 1" src="https://github.com/user-attachments/assets/19d92e74-81ee-4f9b-b091-2086852df0db" />
    
    *Figura 26:* Respecto al gráfico del archivo crudo (que conservaba un mayor porcentaje de secuencias únicas), tras el filtrado por calidad se redujeron algunas lecturas de baja calidad/únicas, concentrando aún más el porcentaje de secuencias de alta calidad que están masivamente duplicadas. El filtrado por calidad no elimina duplicados. Al descartar las lecturas de baja calidad ( de las cuales podrían corresponder a fragmentos aleatorios o lecturas únicas con errores), la proporción relativa de las secuencias repetidas de alta calidad aumenta en el conjunto final.
 
