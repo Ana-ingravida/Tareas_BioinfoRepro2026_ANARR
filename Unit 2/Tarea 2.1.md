@@ -487,25 +487,26 @@
 
    *Figura 13:* En este gráfico se observa una desviación de la distribución teórica, pues la línea observada muestra múltiples picos agudos e irregularidades a lo largo de todo el espectro, lo que dista de la curva teórica. Esto podría deberse a la presencia de secuencias sobrerepresentadas o adaptadores de la secuenciación no recortados, considerando que la sección de secuencias sobrerepresentadas se muestra alterada en el informe de la muestra.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-27-55-image.png)
+   <img width="685" height="510" alt="Evidencia S10 R1 crudo 6 4_Tarea 2 1" src="https://github.com/user-attachments/assets/a4b1f2d5-f75b-41b8-a54f-a5791c740de3" />
+
    
    *Figura 14:* La curva muestra un gran pico en niveles de duplicación extremos, donde más del 35% de las lecturas se repiten más de 50 veces y alrededor del 32% se repiten más de 100 veces. Las lecturas verdaderamente únicas (nivel 1 en el eje $X$) representan solo un ~5% del conjunto. Este nivel de duplicación (>91%) indica una pérdida severa de diversidad bibliográfica, se sugiere aplicar una herramienta de deduplicación tras el alineamiento para evitar sesgos en el llamado de variantes o conteos de expresión. 
    
    S10_R2.fastq.gz
    
-   <img width="685" height="510" alt="Evidencia S10 R1 crudo 6 4_Tarea 2 1" src="https://github.com/user-attachments/assets/1e677044-db7d-496a-870f-708f32d820bd" />
-   
+   <img width="737" height="515" alt="Evidencia S10 R2 crudo 6 1_Tarea 2 1" src="https://github.com/user-attachments/assets/0cbb7e55-f60f-4ee4-ad2a-cfd9087af659" />
+
    *Figura 15:* Se muestra al Inicio y cuerpo de la lectura (posiciones 1 a 135 bp) una muy buena calidad. Promedios están sobre Q= 30 (las llamadas de bases en esta región son muy precisas). A la mitad y extremo 3' (posiciones 135 a 250 bp) Se observa una caída severa y progresiva de la calidad (a partir de la posición ~160 bp, las cajas amarillas se alargarán hacia la zona naranja y roja, los promedios llegan a alcanzar al final valores malos de Q ~12.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-30-21-image.png)
+   <img width="677" height="514" alt="Evidencia S10 R2 crudo 6 2_Tarea 2 1" src="https://github.com/user-attachments/assets/e944e5e2-7eba-4447-85a2-d7e2f4aab1a2" />
    
    *Figura 16:* Aunque la gran mayoría de las secuencias tienen una calidad media alta Q > o = 30), debido a la presencia del grupo de lecturas por debajo de Q = 27 es necesario aplicar filtrado y trimming para remover las regiones de baja calidad antes de proceder con los análisis secundarios.
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-31-22-image.png)
+   <img width="687" height="514" alt="Evidencia S10 R2 crudo 6 3_Tarea 2 1" src="https://github.com/user-attachments/assets/186af1d0-f1ac-4e3d-b827-677c5c17470a" />
    
    *Figura 17: En este gráfico se observa una desviación de la distribución teórica, pues la línea observada muestra múltiples picos agudos e irregularidades a lo largo de todo el espectro, lo que dista de la curva teórica. Esto podría deberse a la presencia de secuencias sobrerepresentadas o adaptadores de la secuenciación no recortados, considerando que la sección de secuencias sobrerepresentadas se muestra alterada en el informe de la muestra.*
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-32-48-image.png)
+   <img width="688" height="517" alt="Evidencia S10 R2 crudo 6 4_Tarea 2 1" src="https://github.com/user-attachments/assets/1a5fe619-646c-41d3-893f-8b4ea41ae0af" />
    
    *Figura 18:* La curva muestra un gran pico en niveles de duplicación extremos, donde más del 35% de las lecturas se repiten más de 50 veces y alrededor del 32% se repiten más de 100 veces. Las lecturas verdaderamente únicas (nivel 1 en el eje X) representan solo un ~5% del conjunto. Este nivel de duplicación (>91%) indica una pérdida severa de diversidad bibliográfica, se sugiere aplicar una herramienta de deduplicación tras el alineamiento para evitar sesgos en el llamado de variantes o conteos de expresión.
    
@@ -513,12 +514,12 @@
    
    S10_R1_filter.fastq.gz
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-34-03-image.png)
+   <img width="734" height="519" alt="Evidencia S10 R1 filtrado 6 1_Tarea 2 1" src="https://github.com/user-attachments/assets/4523d60d-96ac-40fb-8ce5-f79298035455" />
    
    *Figura 19:* Este gráfico es bastante similar al de la secuencia cruda, sin embargo, hay una mejora en la calidad, promedios están sobre Q= 36 (precisión superior al 99.98%).
    
-   ![Evidencia S10 R1 filtrado 6.2_Tarea 2.1.png](C:\Users\cosit\Desktop\Bioinformatica\Evidencia%20S10%20R1%20filtrado%206.2_Tarea%202.1.png)
-   
+   <img width="684" height="519" alt="Evidencia S10 R1 filtrado 6 2_Tarea 2 1" src="https://github.com/user-attachments/assets/90d2c617-1ef4-4ca6-bfe6-039115902fe2" />
+
    *Figura 20:* Es posible inferir que se eliminaron con éxito las lecturas de calidad intermedia/baja que estaban presentes en el archivo crudo antes del proceso de limpieza. El archivo resultante tiene una distribución de calidad bastante alta y uniforme, lista para alineamiento.
    
    ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-22-35-53-image.png)
