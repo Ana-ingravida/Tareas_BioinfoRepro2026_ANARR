@@ -1,4 +1,6 @@
-# Tarea 2.1
+# READ ME
 **Author: Ana Ramírez**
+
+### Tarea 2.1
 
 The resolution of homework 2.1 can be found in the file titled "Tarea 2.1". The Fastqc files can be found in the folder titled "Files".
