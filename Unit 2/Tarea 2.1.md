@@ -345,7 +345,7 @@
      
      *Interpretación*: Luego del podado, es posible observar mejoras en la calidad promedio (Q ≈36), lo que podría explicarse por una reducción de posibles artefactos de baja calidad, esto particularmente en la muestra S10_R1_filter.fastq.gz, ya que la mejora en la muestra S10_R2_filter.fastq.gz es muy discreta, en comparación con la secuencia cruda.
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-21-20-39-image.png)
+     <img width="645" height="256" alt="Evidencia 4_Tarea 2 1" src="https://github.com/user-attachments/assets/e3746618-6bf6-4e01-a306-f61ed35937e0" />
      
      *Figura 4:* Resultado obtenido al aplicar el código para traducir el código de calidad para las primeras 10 bases del tercer read a valores numéricos (Q), tanto en las secuencias crudas como en las secuencias podadas.
 
@@ -365,7 +365,7 @@
    fastqc ./181004_curso_calidad_datos_NGS/fastq_filter/S10_R2_filter.fastq.gz -o .
    ```
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-04-34-56-image.png)
+   <img width="678" height="387" alt="Evidencia 9_Tarea 2 1" src="https://github.com/user-attachments/assets/a4a20cbf-6b72-46fb-96fe-fbb4edbfe622" />
    
    *Figura 5:* Ejemplo del uso del código propuesto y el respectivo resultado (en este caso para el archivo S10_R1.fastq.gz.
 
@@ -387,7 +387,7 @@
     C:\Users\cosit\Downloads> scp bioinfo1@genoma.med.uchile.cl:~/S10_R2_filter_fastqc.html .
    ```
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-09-30-04-28-54-Evidencia%20descarga%20de%20archivos_Tarea%202.1.png)
+   <img width="1116" height="345" alt="Evidencia descarga de archivos_Tarea 2 1" src="https://github.com/user-attachments/assets/16fbc24a-756f-4125-b7f1-e11d66ce66ce" />
    
    *Figura 6:* Resultado de descargar los archivos HTML al computador al utilizar el código detallado anteriormente.
 
