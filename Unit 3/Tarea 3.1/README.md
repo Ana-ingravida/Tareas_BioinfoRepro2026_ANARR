@@ -29,8 +29,8 @@
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-18-19-38-15-image.png)
-   
+   <img width="559" height="325" alt="Tuto alineamiento 1" src="https://github.com/user-attachments/assets/83abc67c-20c9-4843-ba5e-488b77154821" />
+
    *Figura 1*: Resultado al aplicar el código descrito para realizar el alineamiento contra el genoma humano hg19 de las lecturas S10_R1_filter3.fastq.gz y S10_R2_filter3.fastq.gz.
    
    *1.2 Convertir archivo sam a bam (binario)*
@@ -79,8 +79,8 @@
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-18-19-50-11-image.png)
-   
+   <img width="624" height="118" alt="Tuto alineamiento 2" src="https://github.com/user-attachments/assets/84dc06b8-a280-4682-8a8c-431c12098f5b" />
+
    *Figura 2*: Resultado al aplicar el código descrito para encuentrar la primera lectura  que contenga bases enmascaradas en el archivo S10.sam.
 
 3. *Muestre el registro de las lecturas en el archivo SAM e identifique y explique el código CIGAR de esa lectura.*
@@ -93,8 +93,8 @@
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-18-20-14-32-image.png)
-   
+   <img width="628" height="62" alt="Tuto alineamiento 3" src="https://github.com/user-attachments/assets/0af1f7e9-3465-422f-bceb-4fd5256372d5" />
+
    *Figura 3*: Resultado al aplicar el código descrito para mostrar el registro de las lecturas en el archivo SAM e identificar el código CIGAR.
    
    ¿Cómo se interpreta?
@@ -135,7 +135,7 @@
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-16-35-31-image.png)
+   <img width="683" height="704" alt="Tuto alineamiento 4" src="https://github.com/user-attachments/assets/e3b9854b-dd2c-4013-be0a-fb1c9777fa9a" />
    
    *Figura 4*: Resultado al aplicar el código descrito para Generar un reporte técnico de calidad del alineamiento con **qualimap**.
 
@@ -143,25 +143,25 @@
    
    **5.1 Coverage across reference** 
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-16-58-19-image.png)
+   <img width="792" height="575" alt="Tuto alineamiento 5 1" src="https://github.com/user-attachments/assets/96233b5d-7e3a-4c8e-93a7-f8b24152939d" />
    
    *Figura 5:* El gráfico muestra que la cobertura se presenta como picos aislados, separados por tramos sin cobertura, esto es coherente con un análisis restringido a regiones blanco de captura y con una alta variabilidad entre regiones (promedio de 102,08X). También se observa que los picos de contenido GC en las posiciones cubiertas se mantienen en rangos moderados acordes al promedio de 47,6% dentro de las regiones, sin mostrar extremos de GC que indiquen un sesgo severo.
    
    **5.2 Coverage Histogram**
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-17-01-08-image.png)
+   <img width="792" height="572" alt="Tuto alineamiento 5 2" src="https://github.com/user-attachments/assets/69725317-0a06-40a8-b5d6-f61684a8d5e9" />
    
    *Figura 6:* En el gráfico se observa que la mayor concentración de posiciones genómicas se ubica entre 99-122X y 152-188X (en torno a la cobertura promedio de 102,08X). Destaca una barra elevada en cobertura 0 (más de 7.000 posiciones) y un comportamiento irregular en los rangos bajos e intermedios, lo que refleja bases objetivo sin cobertura o con captura heterogénea dentro de las regiones evaluadas.
    
    **5.3 Duplication Rate Histogram**
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-17-03-43-image.png)
+   <img width="785" height="570" alt="Tuto alineamiento 5 3" src="https://github.com/user-attachments/assets/330c1214-6980-495a-8d13-4c27d423fbb0" />
    
    *Figura 7:* En el gráfico se observa que la gran mayoría de los loci se concentran en tasas bajas de duplicación, con un máximo marcado en 1 (aproximadamente 4.500 loci); a partir del valor 2 la tasa de duplicación decrece 2; en el extremo 50 aumenta discretamente (cerca de 350–375 loci). Esto podría sugerir una evaluación de la librería y el tratamiento de duplicados antes de análisis posteriores.
    
    **5.4 Mapping Quality Histogram**
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-17-06-49-image.png)
+   <img width="776" height="567" alt="Tuto alineamiento 5 4" src="https://github.com/user-attachments/assets/945396eb-5f93-4ef9-8867-3b5a4f3e7270" />
    
    *Figura 8:* El gráfico muestra que la gran mayoría de las posiciones genómicas se concentran en la calidad máxima de mapeo de 60, en concordancia con la calidad promedio de 58,82 dentro de las regiones y lo que refleja alineamientos confiables sobre el genoma de referencia. 
 
