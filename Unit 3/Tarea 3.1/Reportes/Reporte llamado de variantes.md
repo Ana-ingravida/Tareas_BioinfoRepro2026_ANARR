@@ -76,13 +76,13 @@ Visualice una variante en IGV, mostrando tracks tanto para el alineamiento (bam)
 
 5. Busco una ventana en que exista una variante:
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-23-52-10-image.png)
+<img width="1359" height="468" alt="IGV" src="https://github.com/user-attachments/assets/aacdca51-b22a-4272-b091-06abe7d0e196" />
 
 *Figura 1*: Visualización de una variante en el gen *BRCA1*, coordenadas chr17: 41,223,094-41,223,094, tipo de variante SNP, ID del SNP rs1799966,  sustitución T>C.
 
 Al disminuir un poco el zoom (coordenadas chr17:41,218,901-41,223,959) se llegan a visualizar 3 variantes para el gen *BRCA1*:
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-25-02-12-00-image.png)
+<img width="1155" height="407" alt="IGV2" src="https://github.com/user-attachments/assets/874d71cb-9f4a-4d20-9886-d1c6f99e1563" />
 
 *Figura 2*: Visualización de tres variantes (SNP's) en el gen *BRCA1*. En orden de izquierda a derecha: ID del SNP rs8176234, ID del SNP rs8176233, ID del SNP rs 1799966.
 
@@ -106,7 +106,7 @@ Anotación de las variantes con la herramienta en línea [ensembl](https://www.e
 
 - Run.
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-25-03-00-13-image.png)
+<img width="1355" height="572" alt="ensembl" src="https://github.com/user-attachments/assets/d8763aa8-7e54-4e0d-8a03-b9b427618770" />
 
 *Figura 3*: Visualización de la anotación de las variantes con la herramienta en línea [ensembl](https://www.ensembl.org/).
 
@@ -144,11 +144,11 @@ VEP_filtrado %>%
 
 Resultado:
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-25-03-52-03-image.png)
+<img width="848" height="550" alt="Tabla Vep 1" src="https://github.com/user-attachments/assets/67271ad0-79bb-4c38-9673-0b1ba78db743" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-25-03-53-04-image.png)
+<img width="849" height="546" alt="Tabla Vep 2" src="https://github.com/user-attachments/assets/20a812d5-076d-458e-bf2e-73ece338f31c" />
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-25-03-54-05-image.png)
+<img width="850" height="188" alt="Tabla Vep 3" src="https://github.com/user-attachments/assets/1520aa41-653e-4ca6-9bf9-83a109a9bb19" />
 
 *Figura 4*: Tabla generada al aplicar los filtros descritos previamente al archivo generado con la herramienta ensembl. 59 variantes pasaron el filtro, todas son variantes de tipo missense y de impacto moderado a excepción de la variante n°9 que es de tipo pérdida del inicio y de impacto alto.
 
