@@ -175,8 +175,6 @@
 
 **Anexo**
 
-![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-22-25-24-image.png)
-
 **Reporte generado con *qualimap*:** Se encuentra subido en el repositorio de github, puede acceder a través de este enlace: [Reporte](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/blob/main/Unit%203/Tarea%203.1/File/qualimapReport.html)
 
 #### Conclusiones
@@ -219,7 +217,7 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-15-07-image.png)
+   <img width="1323" height="697" alt="Tuto llamado 1" src="https://github.com/user-attachments/assets/4b03a844-9bc3-45a1-b0df-b8311a513c1b" />
    
    *2 Aplicar filtros a las variantes:*
    * Extraer SNP's: Se utilizó el siguiente código:
@@ -230,7 +228,7 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
      
      Resultado
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-15-59-image.png)
+     <img width="1347" height="356" alt="Tuto llamado 2" src="https://github.com/user-attachments/assets/1331b5d7-f0dd-4d4b-a7b6-f6e3e4448862" />
    
    * Filtrar SNP's: Se utilizó el siguiente código:
      
@@ -240,7 +238,7 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
      
      Resultado
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-17-17-image.png)
+     <img width="1347" height="357" alt="Tuto llamado 3" src="https://github.com/user-attachments/assets/004688a9-8271-44dd-b0fe-72f761f87c8d" />
    
    * Extraer InDels: Se utilizó el siguiente código:
      
@@ -250,7 +248,7 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
      
      Resultado
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-19-42-image.png)
+     <img width="1347" height="356" alt="Tuto llamado 4" src="https://github.com/user-attachments/assets/706dba9c-6c9e-43ad-b649-c723b4701621" />
    
    * Filtrar InDels: Se utilizó el siguiente código:
      
@@ -260,7 +258,7 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
      
      Resultado
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-20-56-image.png)
+     <img width="1347" height="359" alt="Tuto llamado 5" src="https://github.com/user-attachments/assets/e7c084dc-efd7-4100-8908-4fc6f9b9f932" />
    
    * Combinar vcfs filtrados: Se utilizó el siguiente código:
      
@@ -270,7 +268,8 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
      
      Resultado
      
-     ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-21-57-image.png)
+     <img width="1346" height="358" alt="Tuto llamado 6" src="https://github.com/user-attachments/assets/b9c254d9-b537-4768-b8a6-07e7dbeb1b5a" />
+
 2. *En materiales y métodos del reporte, indique el número de genes incluidos en el panel e incluya una tabla con la lista de genes (**consejo: revise el archivo regiones_blanco.bed**). Indique también la región genómica total (en pares de bases) cubierta por el panel, o sea, el tamaño de las regiones blanco (**consejo: revise su reporte qualimapReport.html**).*
    
    Para obtener la lista completa de genes en el archivo `regiones_blanco.bed` se utilizó el siguiente código:
@@ -289,9 +288,9 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-34-12-image.png)
+   <img width="504" height="33" alt="Tuto llamado 7" src="https://github.com/user-attachments/assets/62e8eed2-2d1b-4825-a05f-5a9c2dafda62" />
    
-   La tabla se encuentre en *Materiales y métodos* del reporte técnico generado: [Reporte llamado de variantes](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/blob/main/Unit%203/Tarea%203.1/Reportes/Reporte%20llamado%20de%20variantes.md)
+   La tabla se encuentra en *Materiales y métodos* del reporte técnico generado: [Reporte llamado de variantes](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/blob/main/Unit%203/Tarea%203.1/Reportes/Reporte%20llamado%20de%20variantes.md)
 3. *Realice el filtrado de variantes con dos filtros, DP<10 y uno adicional que usted proponga.*
    
    En el punto 1, se realizó el filtrado con el filtro DP<10.
@@ -304,8 +303,9 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-47-07-image.png)
-4. *Estime cuántas variantes son eliminadas por el filtro DP<10 solamente, y cuántas por ambos filtros.*
+   <img width="1349" height="355" alt="Tuto llamado 3_filtroqd" src="https://github.com/user-attachments/assets/5cc58033-b8d6-4801-a8cc-fbbe1d8b9a27" />
+
+5. *Estime cuántas variantes son eliminadas por el filtro DP<10 solamente, y cuántas por ambos filtros.*
    
    **Filtro DP<10**: Se utilizó el siguiente código:
    
@@ -317,7 +317,7 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-41-35-image.png)
+   <img width="621" height="131" alt="Tuto llamado 8" src="https://github.com/user-attachments/assets/93b0209a-a385-4233-8518-99d21df034a8" />
    
    **Ambos filtros**: Se utilizó el siguiente código:
    
@@ -329,8 +329,9 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
    
    Resultado
    
-   ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-18-50-50-image.png)
-5. *Genere un reporte e incluya una tabla con el número de variantes detectadas totales, SNPs, e INDELs. Para cada caso, indicar el número de variantes filtradas y que pasaron los filtros (solo uno, y ambos).*
+   <img width="577" height="56" alt="Tuto llamado 9" src="https://github.com/user-attachments/assets/be489b33-c706-4b83-82e5-17f1cced0214" />
+
+6. *Genere un reporte e incluya una tabla con el número de variantes detectadas totales, SNPs, e INDELs. Para cada caso, indicar el número de variantes filtradas y que pasaron los filtros (solo uno, y ambos).*
    * Conteo de variantes totales, SNPs e INDELs: Se utilizó el siguiente código:
      
      ```
@@ -381,11 +382,11 @@ El reporte de qualimap para la muestra "S10_sorted_RG.bam" sobre las regiones bl
      ![](C:\Users\cosit\AppData\Roaming\marktext\images\2026-11-24-19-45-22-image.png)
      
      La tabla se encuentra en *Resultados* del reporte técnico generado: [Reporte llamado de variantes](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/blob/main/Unit%203/Tarea%203.1/Reportes/Reporte%20llamado%20de%20variantes.md)
-6. *Visualice una variante en IGV, mostrando tracks tanto para el alineamiento (bam) como las variantes detectadas (VCF).*
-7. *Asegúrese de usar un tamaño de ventana que muestre suficiente detalle como para leer la secuencia de referencia, pero sin un zoom excesivo para que se logre ver algo de contexto de secuencia. Ojalá que se vean otras variantes al rededor de la central. Incluya un track con los genes. Si no se ve ningún gen cercano a la variante, elija otra variante.*
-8. *En resultados, indique en formato de tabla el número de variantes detectadas según ubicación (intrónica, río arriba, río abajo, codificante con cambio de sentido, sin sentido, etc).*
-9. *Realice una anotación de las variantes con la herramienta en línea [VEP](https://grch37.ensembl.org/info/docs/tools/vep/index.html). Asegúrese de usar la versión del genoma que utilizó en el alineamiento. Incluya anotaciones de Significancia clínica y puntajes CADD. Baje la tabla de variantes anotadas en formato TXT y fíltrela (por ejemplo en R) para generar una tabla que solo contenga variantes con un valor distinto a "benign" en la columna "CLIN_SIG" o un valor de CAAD > 20. Incluya incluya la tabla filtrada en su informe (si hubo variantes que pasaron los filtros) e interprete sus resultados.*
-10. *En la sección conclusiones, asegúrese de concluir algo sobre la muestra (presencia o no de mutaciones con potencial patogénico)*.
+7. *Visualice una variante en IGV, mostrando tracks tanto para el alineamiento (bam) como las variantes detectadas (VCF).*
+8. *Asegúrese de usar un tamaño de ventana que muestre suficiente detalle como para leer la secuencia de referencia, pero sin un zoom excesivo para que se logre ver algo de contexto de secuencia. Ojalá que se vean otras variantes al rededor de la central. Incluya un track con los genes. Si no se ve ningún gen cercano a la variante, elija otra variante.*
+9. *En resultados, indique en formato de tabla el número de variantes detectadas según ubicación (intrónica, río arriba, río abajo, codificante con cambio de sentido, sin sentido, etc).*
+10. *Realice una anotación de las variantes con la herramienta en línea [VEP](https://grch37.ensembl.org/info/docs/tools/vep/index.html). Asegúrese de usar la versión del genoma que utilizó en el alineamiento. Incluya anotaciones de Significancia clínica y puntajes CADD. Baje la tabla de variantes anotadas en formato TXT y fíltrela (por ejemplo en R) para generar una tabla que solo contenga variantes con un valor distinto a "benign" en la columna "CLIN_SIG" o un valor de CAAD > 20. Incluya incluya la tabla filtrada en su informe (si hubo variantes que pasaron los filtros) e interprete sus resultados.*
+11. *En la sección conclusiones, asegúrese de concluir algo sobre la muestra (presencia o no de mutaciones con potencial patogénico)*.
     
     ***Los items del 6 al 10 se encuentran resueltos en el reporte técnico generado:*** [Reporte llamado de variantes](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/blob/main/Unit%203/Tarea%203.1/Reportes/Reporte%20llamado%20de%20variantes.md)
     
