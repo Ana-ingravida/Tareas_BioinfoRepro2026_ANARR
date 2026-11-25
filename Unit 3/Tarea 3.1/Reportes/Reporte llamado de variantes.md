@@ -12,7 +12,7 @@ La secuencia paired-ended (S10_sorted_RG.bam) fue filtrada según ciertos parám
 
 Pueden ser revisados en los siguientes enlaces:
 
-[Filtrado](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/blob/main/Unit%202/Tarea%202.1.md)
+[Filtrado](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/blob/main/Unit%202/Tarea%202.1/README.md)
 
 [Alineamiento]()
 
