@@ -18,3 +18,9 @@ The author of this repository is the student **TM. Ana Ramírez Rivas**, who bel
 *Expected learning outcome: User-level management of specialized software for population genetics with genomic data*
 
 [Unit 2](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/tree/main/Unit%202)
+
+
+### Unit 3: Introduction to Genomics and Next-Generation Sequencing
+*Expected learning outcome: Understanding the generation and analysis of genomic data.*
+
+[Unit 3](https://github.com/Ana-ingravida/Tareas_BioinfoRepro2026_ANARR/tree/main/Unit%203)
